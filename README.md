@@ -46,7 +46,9 @@ python organizador_de_arquivos.py
 * Requisitos
 
 Python 3 instalado
+
 Permissão para criar pastas e mover arquivos
+
 Acesso à pasta que será organizada
 
 * Importante
