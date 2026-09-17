@@ -10,16 +10,27 @@ O programa percorre os arquivos dessa pasta, identifica a extensão de cada um e
 
 
 Textos
+
 Word
+
 PDF
+
 Excel
+
 PowerPoint
+
 Fotos
+
 Audios
+
 Videos
+
 Compactados
+
 Executaveis
+
 Codigo
+
 Fontes
 
 
